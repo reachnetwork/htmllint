@@ -4,7 +4,7 @@
   "description": "An unofficial html5 linter.",
   "repository": {
     "type": "git",
-    "url": "http://github.com/htmllint/htmllint"
+    "url": "http://github.com/reachnetwork/htmllint"
   },
   "keywords": [
     "html",
