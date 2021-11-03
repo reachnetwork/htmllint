@@ -23,7 +23,7 @@ Getting Started with Contributing
 
 You can use htmllint in Node.JS by using   
 ```
-require('htmllint')  
+require('htmllint')
 ```
 in your code, and doing an install with  
 ```
